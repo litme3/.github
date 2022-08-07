@@ -34,7 +34,7 @@ Zora's API serves as the main backend for the app.
 - We also are working on the encryption / decryption using Lit-Protocol. 
 - Adding Proof-Of-Humanity using Kleros Protocol (we are having some survey and discussions going throught the efficiency). 
 
-△△△△△△ Check our survey here : [Survey](https://twitter.com/Phase_zora/status/1556334106669096960) △△△△△△
+△△△△△△ [Check our survey over Proof-Of-Humanity here](https://twitter.com/Phase_zora/status/1556334106669096960) △△△△△△
 
 
 ## Getting Started
